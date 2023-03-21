@@ -1,1 +1,1 @@
-This pipeline for analysis rattan RNA-seq
+This pipeline for analysis rattan RNA-seq. Based on nf-core and improved co-expression net, we have optimized the transcriptome analysis process to better serve the analysis of rattan.  
